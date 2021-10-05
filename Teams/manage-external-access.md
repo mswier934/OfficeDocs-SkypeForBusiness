@@ -67,7 +67,7 @@ By default, external access is turned on in Teams, which means that your organiz
 
 ![An icon showing the Microsoft Teams logo.](media/teams-logo-30x30.png)  **Using the Microsoft Teams admin center**
 
-1. In the left navigation, go to **Org-wide settings** > **External access**.
+1. In the left navigation, go to **Users** > **External access**.
 
 2. Turn on the **Users can communicate with other Skype for Business and Teams users** setting.
 
@@ -106,7 +106,7 @@ Follow these steps to let Teams users in your organization chat with and call Sk
 
 ![An icon showing the Microsoft Teams logo.](media/teams-logo-30x30.png)  **Using the Microsoft Teams admin center**
 
-1. In the left navigation, go to **Org-wide settings** > **External access**.
+1. In the left navigation, go to **Users** > **External access**.
 
 2. Turn on the **Users can communicate with Skype users** setting.
 
